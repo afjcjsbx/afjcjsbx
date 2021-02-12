@@ -11,9 +11,10 @@
 - How to reach me: afjcjsbx@gmail.com
 
 
- <details>
-<summary>Github Stats</summary>
+---
+|[![afjcjsbx's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=afjcjsbx&show_icons=true&line_height=21&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/afjcjsbx/afjcjsbx)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afjcjsbx&langs_count=8&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
 
-![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat2911&theme=vue) ![Ashish's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=afjcjsbx&show_icons=true&line_height=21&show_icons=true&theme=vue)
+---
+<img src="https://komarev.com/ghpvc/?username=afjcjsbx&color=blue&style=flat-square" align="right" />
 
-</details>
